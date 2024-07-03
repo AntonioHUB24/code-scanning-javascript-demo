@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: code-scanning-javascript-demo
+  annotations:
+    github.com/project-slug: AntonioHUB24/code-scanning-javascript-demo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
